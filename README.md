@@ -208,5 +208,5 @@ AVERAGE('Customer_Churn_Cleaned'[Tenure_Months])
 
 ## 👤 Author
 
-**Student Name**  
+**Shaik Vahid Basha**  
 Data Analytics Mini Project  
